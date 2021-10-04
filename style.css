@@ -1,16 +1,24 @@
-.html{
-    background-color:  gray;
-    border-width: 3;
-    border-color: aqua;
-    text-align: center;
+body{
+    background-color: plum;
+    text-align:center;
 }
 
-.h2{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.login_div1,.login_div2{
+background-color:white;
+padding:10px;
+float:none;
+border-radius:25px;
 }
- 
 
-.h3{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+#output
+{
+    background:white;
+    border-radius:10px;
+    border-top:10px solid rgb(255, 161, 177);
+    padding:10px;
+    float:none;
+    text-align:center;
 }
+
+
  
